@@ -8,7 +8,7 @@ export function Submission() {
             
             <p className="mt-2 text-lg leading-8 text-gray-600">
 
-            Authors are invited to submit original research contributions or position papers addressing one or more of the workshop's topics. English-language research contributions that have not been concurrently submitted or published elsewhere. Submissions should adhere to the ICDM formatting and submission guidelines, i.e., they must adhere to the IEEE 2-column format. For the regular paper track, submissions should not exceed 8 pages of content, plus an additional 2 pages for references. For the short paper track, submissions should be limited to a maximum of 4 pages of content, plus 1 extra page for references.
+            Authors are invited to submit original research contributions or position papers addressing one or more of the workshop`s topics. English-language research contributions that have not been concurrently submitted or published elsewhere. Submissions should adhere to the ICDM formatting and submission guidelines, i.e., they must adhere to the IEEE 2-column format. For the regular paper track, submissions should not exceed 8 pages of content, plus an additional 2 pages for references. For the short paper track, submissions should be limited to a maximum of 4 pages of content, plus 1 extra page for references.
             </p>
             
             <p className="mt-2 mb-2, text-gray-600">
