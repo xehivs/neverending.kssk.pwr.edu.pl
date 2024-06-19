@@ -6,11 +6,11 @@ import { type Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: {
-    template: "CLD2 – an ECAI'24 Workshop",
-    default: 'CLD2 - Classifier Learning from Difficult Data',
+    template: "NML – an ICDM'24 Workshop",
+    default: 'NML - Neverending Machine Learning',
   },
   description:
-    'Classifier Learning from Difficult Data. – The workshop on Classifier Learning from Difficult Data is organized during the 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE in Santiago de Compostella.',
+    'Neverending Machine Learning is co-located with ICDM 2024, Abu Dhabi, UAE, December 9-12, 2024',
 }
 
 const inter = Inter({

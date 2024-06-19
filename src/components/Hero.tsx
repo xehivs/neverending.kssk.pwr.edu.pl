@@ -26,6 +26,7 @@ export function Hero() {
         </span><br/>
         Machine Learning
       </h1>
+      <span className='text-blue-200'>NML 2024 is co-located with ICDM 2024, Abu Dhabi, UAE, December 9-12, 2024</span>
       {/* <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
         The workshop on Classifier Learning from Difficult Data is organized during the <a href="https://www.ecai2024.eu/">27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE</a> in Santiago de Compostella.
       </p> */}
