@@ -115,11 +115,11 @@ export function Header() {
             {/* <div className="hidden md:block">
               <NavLink href="/login">Sign in</NavLink>
             </div> */}
-            {/* <Button href="https://chairingtool.com/conferences/CLD22024/MainTrack" color="red" target="_blank">
+            <Button href="https://wi-lab.com/cyberchair/2024/icdm24/scripts/submit.php?subarea=S23&undisplay_detail=1&wh=/cyberchair/2024/icdm24/scripts/ws_submit.php" color="white" target="_blank">
               <span>
                 Submit paper
               </span>
-            </Button> */}
+            </Button>
             <div className="-mr-1 md:hidden">
               <MobileNavigation />
             </div>
