@@ -16,7 +16,7 @@ export function Submission() {
             </p>
 
             <p className="mt-2 mb-2, text-gray-600">
-              Link to submission system coming soon.
+              <a href="https://wi-lab.com/cyberchair/2024/icdm24/scripts/submit.php?subarea=S23&undisplay_detail=1&wh=/cyberchair/2024/icdm24/scripts/ws_submit.php">Link to submission system.</a>
             </p>
 
     </div>
